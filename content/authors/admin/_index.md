@@ -15,8 +15,8 @@ email: ""
 highlight_name: false
 interests:
 - Data Science
-- Machine Learning
 - Music Cognition
+- Machine Learning
 - Language Cognition
 - Cognitive Neuroscience
 - Science Communication

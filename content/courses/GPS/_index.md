@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Data Science
-summary: The data science workshops I teach.
+summary: Data science workshops I teach at Concordia University.
 title: "\U0001F4CA GradProSkills R Programming Workshops"
 type: book
 ---
@@ -18,7 +18,7 @@ type: book
 ## GPDI517 - Reproducible Scientific Analysis with R
 
 - How to streamline your R workflow
-- Writing code that easier for you and ohers to read
+- Writing code that easier for you and others to read
 - Projects in R
 - Creating reports with RMarkdown
 

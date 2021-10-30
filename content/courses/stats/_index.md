@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Statistics
-summary: Lab Instructor.
+summary: Lab Instructor for undergraduate statistics course.
 title: "\U0001F4CA PSYC 316 Statistical Analysis II"
 type: book
 ---
@@ -10,8 +10,9 @@ type: book
 
 ### Topics Covered
 
-- Basics of SPSS (Fall 2019)
+- Statistical Anlaysis in SPSS (Fall 2019)
 - Programming in R (Winter 2020)
+- Data Cleaning
 - Analysis of variance
 - Multiple Linear Regression
 - Data Visualization

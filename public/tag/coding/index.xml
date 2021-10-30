@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding | Alexander W. Albury</title>
+    <link>/tag/coding/</link>
+      <atom:link href="/tag/coding/index.xml" rel="self" type="application/rss+xml" />
+    <description>coding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub02f11719440bf94480d1ab9e24c040b_118897_512x512_fill_lanczos_center_2.png</url>
+      <title>coding</title>
+      <link>/tag/coding/</link>
+    </image>
+    
+    <item>
+      <title>Code Together</title>
+      <link>/project/codetogether/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/codetogether/</guid>
+      <description>&lt;p&gt;Code Together is an initiative co-hosted by myself and &lt;a href=&#34;https://twitter.com/rubyivan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Ruby&lt;/a&gt;{:target=&amp;quot;_blank&amp;quot;} with the goal of supporting the coding community at Concordia University. Code Together offers drop-in sessions for people looking to set aside time for coding projects or troubleshoot bugs and issues with like-minded peers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.concordia.ca/students/gradproskills/events/code-together.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the full description of code together!&lt;/a&gt;{:target=&amp;quot;_blank&amp;quot;}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

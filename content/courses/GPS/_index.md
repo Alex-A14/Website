@@ -8,18 +8,26 @@ type: book
 
 {{< figure src="featured.jpg" >}}
 
-## GPDI515 - Beginner’s Guide to the R Programming Language
+## Fall 2021 - Present
+
+## [GPDI 515 - Data Science & Communication with R](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=515)
+
+- Previous courses consolidated into one course.
+
+## Fall 2020 - Fall 2021
+
+### GPDI 515 - Beginner’s Guide to the R Programming Language
 
 - Programming basics
 - Introduction to RStudio
-- Data cleaning with tidyverse
+- Data cleaning with dplyr
 - Data visualization with ggplot
 
-## GPDI517 - Reproducible Scientific Analysis with R
+### GPDI 517 - Reproducible Scientific Analysis with R
 
 - How to streamline your R workflow
-- Writing code that easier for you and others to read
-- Projects in R
+- Writing reproducible code
+- Projects in RStudio
 - Creating reports with RMarkdown
 
 ## 

@@ -13,7 +13,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2022-01-27T00:00:00Z"
+lastmod: ""
 projects: []
 subtitle: ""
 summary: ""

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Alexander W. Albury</title>
+    <link>/tag/teaching/</link>
+      <atom:link href="/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub02f11719440bf94480d1ab9e24c040b_118897_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching</title>
+      <link>/tag/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Data Science Online - A Blessing or a Curse?</title>
+      <link>/post/teaching-data-science-gps/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/teaching-data-science-gps/</guid>
+      <description>&lt;p&gt;Teaching data science online has revealed some useful strategies to be continued as we transition back to in-person teaching.&lt;/p&gt;
+&lt;p&gt;Gauging interest, encouraging engagement, and monitoring understanding all become a challenge when your audience is reduced to a grid of black rectangles. These challenges only increase for subjects where interaction and engagement are key elements in the learning process, including programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Programming is, at its core, a skill-based subject. While we might be able to listen to and understand a data science tutorial, trying to replicate programming techniques after only watching them would be like trying to play the violin after attending a symphony. Considering the importance of active participation in programming education, a situation in which student engagement is decreased becomes especially detrimental.&lt;/p&gt;
+&lt;p&gt;Here are a few best practices from my experience leading data science workshops, that I believe can make the learning process smoother.&lt;/p&gt;
+&lt;h3 id=&#34;minimize-tech-issues&#34;&gt;&lt;strong&gt;Minimize Tech Issues&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Tech issues can be discouraging even in the best of times and might lead to disengagement or drop-outs. It’s important to remove as many potential hurdles for students as possible. Although giving learners installation and prep instructions beforehand is good practice, you need to be prepared for the very real possibility that students are coming with zero preparation, particularly for one-time events like workshops.&lt;/p&gt;
+&lt;p&gt;For this reason, I try to make sure that every resource I use in my workshops is easily accessible online. Through services such as &lt;a href=&#34;https://mybinder.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;binder&lt;/a&gt; and &lt;a href=&#34;https://research.google.com/colaboratory/faq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Colab&lt;/a&gt;, even the software used in workshops, including R and Python, can be accessed online, thereby eliminating the risk of installation issues.&lt;/p&gt;
+&lt;p&gt;If possible, even the data used in workshops should be accessible online without the need to download it. This avoids problems related to folders, file paths, and working directories; &lt;a href=&#34;https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;concepts that might be less intuitive than you think&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;By removing these initial barriers, you can spend more time on content instead of debugging installation and download issues which are often hyper-specific.&lt;/p&gt;
+&lt;h3 id=&#34;engage-participants&#34;&gt;&lt;strong&gt;Engage Participants&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;One way to improve interaction online is to make learners more invested in the content. Giving students control over their learning experience is a great way to promote autonomy and make them more active participants. One of the techniques I like to employ in data science is to give students choices over which data we use in a lesson. This interactivity helps to tailor content to student interests and leads to increased engagement and participation, when combined with &lt;a href=&#34;https://www.concordia.ca/ctl/digital-teaching/usign-zoom-engage-students.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom tools such as polls and reactions&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;see-things-from-a-learners-perspective&#34;&gt;&lt;strong&gt;See Things from a Learner&amp;rsquo;s Perspective&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Remember that learners don’t share your technology setup. So although you might have created the perfect work-from-home command centre, you should consider that many of your students will be viewing your content on a 13-inch laptop screen. This is an important consideration when deciding how to organize windows, which font size to use, and how to format slides. You might even want to go as far as joining your workshop on another computer so you can see what students see. Not only does this aid learning by making your material easier to follow, but it can also address important &lt;a href=&#34;https://www.concordia.ca/students/accessibility/faculty-information/universal-design-for-learning.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accessibility needs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Online learning also gives us the opportunity to literally share the learner’s perspective. Anyone who has led a small, in-person workshop in tech or data science has likely had the experience of bouncing back and forth across the room, inspecting code and troubleshooting errors. Conversely, anyone who has tried troubleshooting remotely knows how frustrating it can be. One of the few benefits of online learning is the increased prevalence of screen-sharing. Screen-sharing allows not just the instructor but all of the other participants to be a part of the debugging process (provided that they are comfortable sharing their screen). This collaborative debugging can be a learning activity in itself.&lt;/p&gt;
+&lt;h3 id=&#34;looking-towards-the-future&#34;&gt;&lt;strong&gt;Looking Towards the Future&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Taken together, what stands out is that most of these techniques don’t need to be reserved for online learning. Although remote teaching might have pushed us to optimize our teaching techniques, there’s no reason we can’t take what we’ve learned back to in-person classes. And as we make this transition, we’ll have the opportunity to use &lt;a href=&#34;https://www.concordia.ca/ctl/teaching/blended-learning.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blended learning approaches&lt;/a&gt;, allowing us to draw from the best of both worlds.&lt;/p&gt;
+&lt;p&gt;Article originally published on the &lt;a href=&#34;https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/01/27/teaching-data-science-online-a-blessing-or-a-curse.html?c=students/gradproskills/blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GradProSkills Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

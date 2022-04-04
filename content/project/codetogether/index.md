@@ -14,6 +14,5 @@ url_slides: ""
 url_video: ""
 ---
 
-Code Together is an initiative co-hosted by myself and [Ivan Ruby](https://twitter.com/rubyivan) with the goal of supporting the coding community at Concordia University. Code Together offers drop-in sessions for people looking to set aside time for coding projects or troubleshoot bugs and issues with like-minded peers.
+Code Together is an initiative started by [GradProSkills](https://www.concordia.ca/students/gradproskills.html) and co-hosted by myself and [Ivan Ruby](https://twitter.com/rubyivan) with the goal of supporting the coding community at Concordia University. Code Together offers drop-in sessions for people looking to set aside time for coding projects or troubleshoot bugs and issues with like-minded peers.
 
-[Check out the full description of code together!](https://www.concordia.ca/students/gradproskills/events/code-together.html)

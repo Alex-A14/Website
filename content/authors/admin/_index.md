@@ -44,7 +44,7 @@ social:
   link: https://github.com/Alex-A14
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alexander-albury-6628ab70/
+  link: https://www.linkedin.com/in/alex-albury/
 - icon: osf
   icon_pack: ai
   link: https://osf.io/bycve/
@@ -54,4 +54,3 @@ title: Alexander Albury
 
 I'm a PhD Candidate in the Psychology Department at Concordia University in Montreal. My primary research focuses on how musical complexity influences how much we enjoy music, and how this relationship affects how we learn to play an instrument. I use machine learning methods to estimate musical complexity, and my planned research will investigate neural mechanisms linking complexity, reward, and motor learning. My other interests include, teaching, mentoring, science communication, and data science. When I'm not doing research, you'll find me wrapped up in one of these pursuits.
 
-I'm also the current Editor-In-Chief of the [Concordia Journal of Psychology and Neuroscience](https://www.concordiapsychjournals.ca/), a student-led journal that gives undergraduate psychology students the opportunity to share their research with the wider world, and gives both undergraduate and graduate students experience with the process of empiricial peer-review.

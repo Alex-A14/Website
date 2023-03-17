@@ -10,9 +10,9 @@ type: book
 
 ## Fall 2021 - Present
 
-### [GPDI 515 - Data Science & Communication with R](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=515){:target="_blank"}
+### [GPDI 515 - Data Science & Communication with R](https://go.concordia.ca/workshops/workshop-details/?workshop_events_id=f434545b-0683-ed11-81ac-000d3ae92c49){:target="_blank"}
 
-- Previous courses consolidated into one course.
+- Previous workshops consolidated into one course.
 
 ## Fall 2020 - Fall 2021
 

@@ -11,7 +11,7 @@ type: book
 ### Topics Covered
 
 - Statistical Anlaysis in SPSS (Fall 2019)
-- Programming in R (Winter 2020)
+- Programming & Statistics in R (Winter 2020)
 - Data Cleaning
 - Analysis of variance
 - Multiple Linear Regression
